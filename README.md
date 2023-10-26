@@ -1,8 +1,7 @@
-
 <div class="container-fluid">
 <img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=w8mgzDcAAAAJ&citpid=5" alt="My Self" class="rounded-pill" style="width:225px;height:225px;">
 <h2>About Me: </h2>
-<p>Anirban Dey is currently leading towards his Ph.D. degree in Applied Physics (Electrical Engineering) from the Department of Applied Physics, University of Calcutta. Dey's research work involves pattern recognition, microarray data analysis, and stochastic optimization. He received a UGC-UPE-II, G.o.I. fellowship for doctoral research at the University of Calcutta from 2018 to 19 and currently is a researcher at The Center of Excellence in System Biology and Biomedical Engineering, University of Calcutta.</p>
+<p>Anirban Dey is a final year Ph.D. Scholar at the Department of Applied Physics, University of Calcutta. Dey's research work involves pattern recognition, microarray data analysis, and stochastic optimization. He received a UGC-UPE-II, G.o.I. fellowship for doctoral research at the University of Calcutta from 2018 to 19 and currently is a researcher at The Center of Excellence in System Biology and Biomedical Engineering, University of Calcutta.</p>
 
 <h2>Membership and other voluntary work:</h2>
 <p>
@@ -22,7 +21,6 @@ Member number: 95043899</li>
 "This Earth is His, to Him belong those vast and boundless skies;<br> Both seas within Him rest, and yet in that small pool He lies."<br>
 - ATHARVA VEDA<br>
 Book 4, Hymn 16
-
 
 </h5>
 </div>
